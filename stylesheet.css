@@ -1,0 +1,30 @@
+p {
+    background-color: salmon;
+    font-size: 24px;
+
+}
+.second {
+    color: blue;
+    font-size: 36px;
+
+}
+.third{
+    font-size: 24px;
+}
+.fourth {
+    background-color: lightgreen; 
+    font-size: 24px;
+    font-weight: bold;
+
+}
+.button{
+    background-color: black;
+    color: white;
+}
+.no-button{
+    background-color: yellow;
+}
+.alligator{
+    font-size: 28px;
+    font-family: sans-serif;
+}
